@@ -1,0 +1,1 @@
+This appp code allows to evaluate an animal basic physiological values. Given temperature, heart rate, and breath frequency, the code will compare them to normal physiological range and make conclusion. 
